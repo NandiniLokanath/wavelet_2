@@ -81,3 +81,4 @@ $ python demo.py  --sample_output_folder samples/ \
                 --ckpt dehaze_chromatic_100.pkl
 ```
 <p align="center"><img width="90%" src="result/1273_1_0.16.jpg" /></p>
+# Wavelet-dehaze
