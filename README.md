@@ -82,3 +82,4 @@ $ python demo.py  --sample_output_folder samples/ \
 ```
 <p align="center"><img width="90%" src="result/1273_1_0.16.jpg" /></p>
 # Wavelet-dehaze
+# Wavelet-dehaze
